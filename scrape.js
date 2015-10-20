@@ -44,7 +44,7 @@ function getArticle(link) {
     var options = {
         query: link,
         format: "html",
-        summaryOnly: true
+        summaryOnly: false
     };
     wikipedia.searchArticle(options, function(err, htmlWikiText) {
         if (err) {
@@ -54,13 +54,21 @@ function getArticle(link) {
         if (_.isNull(htmlWikiText))
             return
 
-        $ = cheerio.load(htmlWikiText);
+        var $ = cheerio.load(htmlWikiText);
 
-        $('h1,h2,h3,h4,h5,p').each(function() {
-            var content = $(this).html();
-            fs.appendFileSync(filename, content + "\n")
-                // console.log(content)
-        })
+
+        // $('*').each(function() { // iterate over all elements
+        // if (!_.isUndefined(this[0]))
+        // this[0].removeAttr('href') = {}; // remove all attributes
+        // });
+        $('a').removeAttr('href')
+        $('.reference').remove()
+        $('ref').remove()
+
+        var html = $.html();
+
+        fs.appendFileSync(filename, html + " ")
+
         current++
         console.log(current + "/" + total)
 
