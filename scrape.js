@@ -61,7 +61,7 @@ function getArticle(link) {
         // if (!_.isUndefined(this[0]))
         // this[0].removeAttr('href') = {}; // remove all attributes
         // });
-        $('a').removeAttr('href')
+        // $('a').removeAttr('href')
         $('.reference').remove()
         $('ref').remove()
 
