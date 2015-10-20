@@ -34,6 +34,8 @@ function parseList(data) {
         links[i] = $(this).text() //$(this).attr("href")
     });
     total = links.length
+        // _.each(links, console.log)
+
     _.each(links, getArticle)
 }
 
@@ -42,7 +44,7 @@ function getArticle(link) {
     var options = {
         query: link,
         format: "html",
-        summaryOnly: false
+        summaryOnly: true
     };
     wikipedia.searchArticle(options, function(err, htmlWikiText) {
         if (err) {
@@ -55,12 +57,12 @@ function getArticle(link) {
         $ = cheerio.load(htmlWikiText);
 
         $('h1,h2,h3,h4,h5,p').each(function() {
-            var content = $(this).text();
+            var content = $(this).html();
             fs.appendFileSync(filename, content + "\n")
                 // console.log(content)
         })
         current++
-        console.log(current+"/"+total)
+        console.log(current + "/" + total)
 
     })
 }
