@@ -4,9 +4,10 @@ var cheerio = require('cheerio');
 var filename = 'input.txt'
 var fs = require('fs')
 fs.writeFileSync(filename, '');
+console.log("clearing file... \n")
 
-// var query = "Napoleon Bonaparte";
-
+var total = 0;
+var current = 0;
 
 var query = "List_of_animals_by_common_name";
 
@@ -32,7 +33,7 @@ function parseList(data) {
     $('a').each(function(i, elem) {
         links[i] = $(this).text() //$(this).attr("href")
     });
-
+    total = links.length
     _.each(links, getArticle)
 }
 
@@ -58,6 +59,8 @@ function getArticle(link) {
             fs.appendFileSync(filename, content + "\n")
                 // console.log(content)
         })
+        current++
+        console.log(current+"/"+total)
 
     })
 }
