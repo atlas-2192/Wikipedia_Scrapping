@@ -12,11 +12,11 @@ var express = require('express'),
     favicon = require('serve-favicon'),
     fs = require('fs');
 
-var template = _.template(fs.readFileSync("public/template.html").toString())
+var tpl = _.template(fs.readFileSync("public/template.html").toString())
 
 // config = require('./config');
 function genContent(seed, cb) {
-    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -temperature .8 -length 3000 -primetext "' + seed + '" > wikiScrape/page/' + seed);
+    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -verbose 0 -temperature .8 -length 3000 -primetext "' + seed + '" > wikiScrape/page/' + seed);
     child.stdout.on('data', function(data) {
         console.log('stdout: ' + data);
     });
@@ -67,7 +67,7 @@ var createServer = function(port) {
 
                         res.send(tpl({
                             page: req.url.replace("/page/", ""),
-                            conent: data
+                            content: data
                         }));
                     });
                 })
