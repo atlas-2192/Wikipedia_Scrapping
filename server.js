@@ -34,6 +34,9 @@ function genContent(seed, cb) {
 var createServer = function(port) {
 
     app.use(favicon(__dirname + '/favicon.ico'));
+
+    // app.use(express.static('public'));
+    
     app.get('/', function(req, res) {
         fs.readFile("public/index.html", function(err, data) {
             if (err) {
@@ -61,10 +64,6 @@ var createServer = function(port) {
                         var regex = new RegExp('http[s]?://en.wikipedia.org/wiki/', "g");
                         data = data.toString().replace(regex, "")
 
-
-                        // regex = new RegExp('http://en.wikipedia.org/wiki', "g");
-                        // data = data.toString().replace(regex, "page/")
-
                         res.send(tpl({
                             page: req.url.replace("/page/", ""),
                             content: data
@@ -74,15 +73,10 @@ var createServer = function(port) {
 
             } else //file exists, send it
                 res.send(data);
-
         });
-
-
     })
 
-    app.use(express.static('public'));
-
-    // app.use('/static/', express.static(path.join(__dirname, 'public')));
+    app.use('/static/', express.static(path.join(__dirname, 'public')));
 
     var server = app.listen(port, function() {
 
