@@ -39,7 +39,7 @@ http: //en.wikipedia.org/wiki
                 res.send(data);
             });
         })
-        app.get('/*', function(req, res) {
+        app.get('/page/*', function(req, res) {
             console.log(req.url)
             var filename = 'db/' + req.url.slice(1);
             res.set('Content-Type', 'text/html');
@@ -53,9 +53,9 @@ http: //en.wikipedia.org/wiki
                                 throw err;
                             }
                             var regex = new RegExp('https://en.wikipedia.org/wiki', "g");
-                            data = data.toString().replace(regex, "")
+                            data = data.toString().replace(regex, "page/")
                             regex = new RegExp('http://en.wikipedia.org/wiki', "g");
-                            data = data.toString().replace(regex, "")
+                            data = data.toString().replace(regex, "page/")
 
                             res.send(data);
                         });
