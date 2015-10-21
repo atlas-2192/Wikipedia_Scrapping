@@ -16,7 +16,7 @@ var tpl = _.template(fs.readFileSync("public/template.html").toString())
 
 // config = require('./config');
 function genContent(seed, cb) {
-    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -verbose 0 -temperature .8 -length 3000 -primetext "' + seed + '" > wikiScrape/page/' + seed);
+    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -verbose 0 -temperature .8 -length 3000 -primetext "' + seed + ' is " > wikiScrape/page/' + seed);
     child.stdout.on('data', function(data) {
         console.log('stdout: ' + data);
     });
