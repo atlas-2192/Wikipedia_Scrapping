@@ -52,10 +52,10 @@ function genContent(seed, cb) {
                             if (err) {
                                 throw err;
                             }
-                            var regex = new RegExp('https://en.wikipedia.org/wiki', "g");
+                            var regex = new RegExp('http[s]?://en.wikipedia.org/wiki/', "g");
                             data = data.toString().replace(regex, "")
-                            regex = new RegExp('http://en.wikipedia.org/wiki', "g");
-                            data = data.toString().replace(regex, "")
+                           // regex = new RegExp('http://en.wikipedia.org/wiki', "g");
+                           // data = data.toString().replace(regex, "page/")
 
                             res.send(data);
                         });
