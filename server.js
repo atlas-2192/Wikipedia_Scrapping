@@ -47,7 +47,7 @@ http: //en.wikipedia.org/wiki
 
                             ;
 
-                            res.send(html.replace("http://en.wikipedia.org/wiki", ""));
+                            res.send(data.replace("http://en.wikipedia.org/wiki", ""));
                         });
                     })
 
