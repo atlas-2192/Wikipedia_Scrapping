@@ -45,9 +45,9 @@ http: //en.wikipedia.org/wiki
                                 throw err;
                             }
 
-                            ;
-
-                            res.send(data.toString().replace("http://en.wikipedia.org/wiki", "").replace("https://en.wikipedia.org/wiki", ""));
+                            data = data.toString().replace("https://en.wikipedia.org/wiki", "")
+                            data = data.toString().replace("http://en.wikipedia.org/wiki", "")
+                            res.send(data);
                         });
                     })
 
