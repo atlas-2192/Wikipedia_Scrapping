@@ -41,7 +41,7 @@ function genContent(seed, cb) {
         })
         app.get('/page/*', function(req, res) {
             console.log(req.url)
-            var filename = req.url;
+            var filename = req.url.slice(1);
             res.set('Content-Type', 'text/html');
 
             fs.readFile(filename, function(err, data) {
