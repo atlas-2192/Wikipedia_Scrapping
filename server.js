@@ -17,7 +17,7 @@ var linktpl = _.template('<a href="page/<%= page %>"><h6><%= page %></h6></a><br
 
 // config = require('./config');
 function genContent(seed, cb) {
-    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -verbose 0 -temperature .9 -length ' + _.random(300, 4000).toString + ' -primetext "' + seed + ' is " > wikiScrape/page/' + seed);
+    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -verbose 0 -temperature .9 -length ' + _.random(300, 4000).toString() + ' -primetext "' + seed + ' is " > wikiScrape/page/"' + seed + '"');
     child.stdout.on('data', function(data) {
         console.log('stdout: ' + data);
     });
@@ -36,15 +36,8 @@ var createServer = function(port) {
 
     app.use(favicon(__dirname + '/favicon.ico'));
 
-    // app.use(express.static('public'));
 
     app.get('/', function(req, res) {
-        // fs.readFile("public/index.html", function(err, data) {
-        //     if (err) {
-        //         throw err;
-        //     }
-        //     res.send(data);
-        // });
 
         fs.readdir('page', (err, files) => {
 
