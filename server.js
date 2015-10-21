@@ -17,7 +17,7 @@ var linktpl = _.template('<a href="page/<%= page %>"><h4><%= page %></h4></a><br
 
 // config = require('./config');
 function genContent(seed, cb) {
-    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -verbose 0 -temperature .9 -length 3000 -primetext "' + seed + ' is " > wikiScrape/page/' + seed);
+    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -verbose 0 -temperature .9 -length ' + _.random(300, 4000).toString + ' -primetext "' + seed + ' is " > wikiScrape/page/' + seed);
     child.stdout.on('data', function(data) {
         console.log('stdout: ' + data);
     });
@@ -64,6 +64,15 @@ var createServer = function(port) {
 
     })
 
+    function buildPage(data, page) {
+        var regex = new RegExp('http[s]?://en.wikipedia.org/wiki/', "g");
+        data = data.toString().replace(regex, "")
+
+        return tpl({
+            page: page.replace("/page/", ""),
+            content: data
+        })
+    }
 
     app.get('/page/*', function(req, res) {
         console.log(req.url)
@@ -78,21 +87,14 @@ var createServer = function(port) {
                         if (err) {
                             throw err;
                         }
-                        var regex = new RegExp('http[s]?://en.wikipedia.org/wiki/', "g");
-                        data = data.toString().replace(regex, "")
 
-                        res.send(tpl({
-                            page: req.url.replace("/page/", ""),
-                            content: data
-                        }));
+                        res.send(buildPage(data, req.url));
                     });
                 })
 
             } else //file exists, send it
-                res.send(tpl({
-                page: req.url.replace("/page/", ""),
-                content: data
-            }));
+                res.send(buildPage(data, req.url));
+
         });
     })
 
