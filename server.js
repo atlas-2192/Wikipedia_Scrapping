@@ -53,9 +53,9 @@ function genContent(seed, cb) {
                                 throw err;
                             }
                             var regex = new RegExp('https://en.wikipedia.org/wiki', "g");
-                            data = data.toString().replace(regex, "page/")
+                            data = data.toString().replace(regex, "")
                             regex = new RegExp('http://en.wikipedia.org/wiki', "g");
-                            data = data.toString().replace(regex, "page/")
+                            data = data.toString().replace(regex, "")
 
                             res.send(data);
                         });
