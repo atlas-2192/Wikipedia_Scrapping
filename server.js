@@ -10,7 +10,7 @@ var express = require('express'),
     fs = require('fs');
 // config = require('./config');
 function genContent(seed, cb) {
-    var child = child_process.exec('cd .. ; th sample.lua cv/lm_lstm_epoch2.77_1.0750.t7 -gpuid -1 -temperature .8 -length 3000 -primetext "' + seed + '" > db/' + seed);
+    var child = child_process.exec('cd .. ; th sample.lua cv/lm_lstm_epoch2.77_1.0750.t7 -gpuid -1 -temperature .8 -length 3000 -primetext "' + seed + '" > wikiScrape/db/' + seed);
     child.stdout.on('data', function(data) {
         console.log('stdout: ' + data);
     });
