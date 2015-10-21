@@ -13,6 +13,7 @@ var express = require('express'),
     fs = require('fs');
 
 var tpl = _.template(fs.readFileSync("public/template.html").toString())
+var linktpl = _.template('<a href="page/<%= page %>"><h4><%= page %></h4></a><br>')
 
 // config = require('./config');
 function genContent(seed, cb) {
@@ -36,15 +37,31 @@ var createServer = function(port) {
     app.use(favicon(__dirname + '/favicon.ico'));
 
     // app.use(express.static('public'));
-    
+
     app.get('/', function(req, res) {
-        fs.readFile("public/index.html", function(err, data) {
-            if (err) {
-                throw err;
-            }
+        // fs.readFile("public/index.html", function(err, data) {
+        //     if (err) {
+        //         throw err;
+        //     }
+        //     res.send(data);
+        // });
+
+        fs.readdir('page', (err, files) => {
+
             res.set('Content-Type', 'text/html');
-            res.send(data);
-        });
+            res.send(tpl({
+                page: 'Voynich',
+                content: _.map(files, (file) => {
+                    return linktpl({
+                        page: file
+                    })
+                })
+            }));
+
+
+        })
+
+
     })
 
 
@@ -72,7 +89,10 @@ var createServer = function(port) {
                 })
 
             } else //file exists, send it
-                res.send(data);
+                res.send(tpl({
+                page: req.url.replace("/page/", ""),
+                content: data
+            }));
         });
     })
 
@@ -90,4 +110,4 @@ var createServer = function(port) {
 
 module.exports = createServer;
 
-createServer(80)
+createServer(8080)
