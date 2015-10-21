@@ -12,7 +12,7 @@ var express = require('express'),
     favicon = require('serve-favicon'),
     fs = require('fs');
 
-var template = _.template(fs.readFileSync("public/template.html"))
+var template = _.template(fs.readFileSync("public/template.html").toString())
 
 // config = require('./config');
 function genContent(seed, cb) {
