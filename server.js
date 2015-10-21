@@ -30,7 +30,15 @@ http: //en.wikipedia.org/wiki
     var createServer = function(port) {
 
         app.use(favicon(__dirname + '/favicon.ico'));
-
+        app.get('/', function(req, res) {
+            fs.readFile("public/index.html", function(err, data) {
+                if (err) {
+                    throw err;
+                }
+                res.set('Content-Type', 'text/html');
+                res.send(data);
+            });
+        })
         app.get('/*', function(req, res) {
             console.log(req.url)
             var filename = 'db/' + req.url.slice(1);
