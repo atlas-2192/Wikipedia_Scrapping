@@ -12,7 +12,7 @@ var express = require('express'),
     fs = require('fs');
 // config = require('./config');
 function genContent(seed, cb) {
-    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -temperature .8 -length 3000 -primetext "' + seed + '" > wikiScrape/db/' + seed);
+    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -temperature .8 -length 3000 -primetext "' + seed + '" > wikiScrape/page/' + seed);
     child.stdout.on('data', function(data) {
         console.log('stdout: ' + data);
     });
@@ -26,7 +26,7 @@ function genContent(seed, cb) {
 
 }
 // genContent(console.log)
-http: //en.wikipedia.org/wiki
+// http: //en.wikipedia.org/wiki
     var createServer = function(port) {
 
         app.use(favicon(__dirname + '/favicon.ico'));
@@ -41,12 +41,12 @@ http: //en.wikipedia.org/wiki
         })
         app.get('/page/*', function(req, res) {
             console.log(req.url)
-            var filename = 'db/' + req.url.slice(1);
+            var filename = req.url;
             res.set('Content-Type', 'text/html');
 
             fs.readFile(filename, function(err, data) {
                 if (err) {
-                    genContent(req.url.slice(1), () => {
+                    genContent(req.url.replace("/page/", ""), () => {
                         console.log("called")
                         fs.readFile(filename, function(err, data) {
                             if (err) {
