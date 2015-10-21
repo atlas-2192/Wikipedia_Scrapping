@@ -17,7 +17,7 @@ var linktpl = _.template('<a href="page/<%= page %>"><h6><%= page %></h6></a><br
 
 // config = require('./config');
 function genContent(seed, cb) {
-    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -verbose 0 -temperature .9 -length ' + _.random(300, 4000).toString() + ' -primetext "' + seed + ' is " > wikiScrape/page/"' + seed + '"');
+    var child = child_process.exec('cd .. ; th sample.lua cv/currentmodel.t7 -gpuid -1 -verbose 0 -temperature .'+_.random(30, 99).toString()+'-length ' + _.random(300, 4000).toString() + ' -primetext "' + seed + ' is " > wikiScrape/page/"' + seed + '"');
     child.stdout.on('data', function(data) {
         console.log('stdout: ' + data);
     });
