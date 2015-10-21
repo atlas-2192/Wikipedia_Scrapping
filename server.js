@@ -29,7 +29,7 @@ function genContent(seed, cb) {
 http: //en.wikipedia.org/wiki
     var createServer = function(port) {
 
-        app.use(favicon(__dirname + '/db/favicon.ico'));
+        app.use(favicon(__dirname + '/favicon.ico'));
 
         app.get('/*', function(req, res) {
             console.log(req.url)
