@@ -13,7 +13,7 @@ var express = require('express'),
     fs = require('fs');
 
 var tpl = _.template(fs.readFileSync("public/template.html").toString())
-var linktpl = _.template('<a href="page/<%= page %>"><h4><%= page %></h4></a><br>')
+var linktpl = _.template('<a href="page/<%= page %>"><h6><%= page %></h6></a><br>')
 
 // config = require('./config');
 function genContent(seed, cb) {
