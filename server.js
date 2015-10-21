@@ -78,8 +78,8 @@ var createServer = function(port) {
         });
 
 
-
     })
+    app.use('/static/', express.static(path.join(__dirname, 'public')));
 
     // app.use('/static/', express.static(path.join(__dirname, 'public')));
 
