@@ -31,12 +31,12 @@ var createServer = function(port) {
 
     app.get('/*', function(req, res) {
         console.log(req.url)
-        var filename = 'db/' + req.url;
+        var filename = 'db/' + req.url.slice(1);
         res.set('Content-Type', 'text/html');
 
         fs.readFile(filename, function(err, data) {
             if (err) {
-                genContent(req.url, () => {
+                genContent(req.url.slice(1), () => {
                     console.log("called")
                     fs.readFile(filename, function(err, data) {
                         if (err) {
