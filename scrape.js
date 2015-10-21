@@ -24,6 +24,7 @@ wikipedia.searchArticle(options, function(err, htmlWikiText) {
         return;
     }
     parseList(htmlWikiText)
+        // console.log(htmlWikiText)
         // console.log("Query successful[query=%s, html-formatted-wiki-text=%s]", query, htmlWikiText);
 })
 
@@ -43,7 +44,7 @@ function getArticle(link) {
     // console.log(link)
     var options = {
         query: link,
-        format: "html",
+        format: "xml",
         summaryOnly: false
     };
     wikipedia.searchArticle(options, function(err, htmlWikiText) {
