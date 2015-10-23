@@ -1,7 +1,7 @@
 var wikipedia = require("wikipedia-js");
 var _ = require('underscore') //underscore is a functional toolkit.e.g. _.exampleUnderscoreFunction
 var cheerio = require('cheerio');
-var filename = 'input.txt'
+var filename = 'input2.txt'
 var fs = require('fs')
 fs.writeFileSync(filename, '');
 console.log("clearing file... \n")
@@ -9,7 +9,7 @@ console.log("clearing file... \n")
 var total = 0;
 var current = 0;
 
-var query = "List_of_animals_by_common_name";
+var query = "List_of_figures_in_Greek_mythology";
 
 // if you want to retrieve a full article set summaryOnly to false. 
 // Full article retrieval and parsing is still beta 
@@ -44,7 +44,7 @@ function getArticle(link) {
     // console.log(link)
     var options = {
         query: link,
-        format: "xml",
+        format: "html",
         summaryOnly: false
     };
     wikipedia.searchArticle(options, function(err, htmlWikiText) {

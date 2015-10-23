@@ -1,0 +1,35 @@
+{
+    "name": "voynich",
+    "version": "1.0.0",
+    "description": "browsable neural nonsense",
+    "main": "server.js",
+    "scripts": {
+        "test": "node server.js",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MaxBittker/Voynich.git"
+    },
+    "keywords": [
+        "char-rnn",
+        "deep-learning",
+        "wikipedia"
+    ],
+    "author": "max bittker",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MaxBittker/Voynich/issues"
+    },
+    "dependencies": {
+        "express": "latest",
+        "path": "latest",
+        "request": "latest",
+        "underscore": "latest",
+        "cheerio": "latest",
+        "serve-favicon": "latest",
+        "fs": "latest",
+        "wikipedia-js": "https://github.com/MaxBittker/wikipedia-js/tarball/master"
+    },
+    "homepage": "https://github.com/MaxBittker/Voynich#readme"
+}
