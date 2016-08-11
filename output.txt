@@ -1,0 +1,1158 @@
+{{BNC1HW||able}}
+{{BE850}}
+{{wikipedia}}
+
+===Pronunciation===
+* {{qualifier|letter name}}
+** {{UK}} and {{US}}
+*** {{IPA|/eɪ/}}
+*** {{SAMPA|/eI/}}
+*** {{audio|en-us-a.ogg|Audio (US)}}
+*** {{audio|en-us-A.ogg|Audio (US)}}
+** {{a|AusE}}
+*** {{IPA|/æɪ/}}
+*** {{SAMPA|/{I/}}
+* {{audio|En-uk-a.ogg|Audio (UK)}}
+
+==Determiner==
+{| border=0 width=100%
+|-
+|bgcolor="#e2e2ff" valign=top width=49%|
+Determiner<br>
+'''a''' 
+|bgcolor="#e2e2ff" valign=top width=49%|
+Before vowel sounds<br>'''[[an]]'''
+|}
+# '''A''' is used when the following word could be [[any]] of a certain type. {{synonyms|one|any|each}}
+#: ''Compare "'''A''' book I saw on the shelf" and "'''The''' book I gave you yesterday".''
+
+===Note===
+* If the following word starts with a [[vowel]] sound, then we use [[an]] instead.
+* It is called the [[indefinite article]]
+
+==Noun==
+{{letter|A}}
+[[File:Latin A.png|thumb|The letter '''A''']]
+# '''A''' is the [[first]] [[letter]] of the [[alphabet]].
+#: ''The letter '''"a"''' comes before "b".''
+
+{{alphabet}}
+
+[[Category:Determiners]]
+[[Category:Articles]]
+
+[[af:a]]
+[[am:a]]
+[[ar:a]]
+[[an:a]]
+[[roa-rup:a]]
+[[ast:a]]
+[[az:a]]
+[[zh-min-nan:a]]
+[[bs:a]]
+[[br:a]]
+[[ca:a]]
+[[cs:a]]
+[[co:a]]
+[[cy:a]]
+[[da:a]]
+[[de:a]]
+[[et:a]]
+[[el:a]]
+[[en:a]]
+[[es:a]]
+[[eo:a]]
+[[eu:a]]
+[[fa:a]]
+[[fr:a]]
+[[ga:a]]
+[[gl:a]]
+[[ko:a]]
+[[hsb:a]]
+[[hr:a]]
+[[io:a]]
+[[id:a]]
+[[ia:a]]
+[[ie:a]]
+[[is:a]]
+[[it:a]]
+[[csb:a]]
+[[sw:a]]
+[[ku:a]]
+[[ky:a]]
+[[lv:a]]
+[[lt:a]]
+[[li:a]]
+[[hu:a]]
+[[mg:a]]
+[[ml:a]]
+[[mt:a]]
+[[ms:a]]
+[[nah:a]]
+[[fj:a]]
+[[nl:a]]
+[[ja:a]]
+[[no:a]]
+[[nn:a]]
+[[oc:a]]
+[[uz:a]]
+[[ps:a]]
+[[km:a]]
+[[nds:a]]
+[[pl:a]]
+[[pt:a]]
+[[ro:a]]
+[[ru:a]]
+[[st:a]]
+[[tn:a]]
+[[sq:a]]
+[[scn:a]]
+[[si:a]]
+[[sk:a]]
+[[sl:a]]
+[[sr:a]]
+[[sh:a]]
+[[su:a]]
+[[fi:a]]
+[[sv:a]]
+[[tl:a]]
+[[ta:a]]
+[[tt:a]]
+[[te:a]]
+[[th:a]]
+[[tg:a]]
+[[chr:a]]
+[[tr:a]]
+[[uk:a]]
+[[ur:a]]
+[[ug:a]]
+[[vec:a]]
+[[vi:a]]
+[[vo:a]]
+[[wa:a]]
+[[ts:a]]
+[[zh:a]]
+
+===Pronunciation===
+* {{audio|En-us-a.m..ogg|Audio (US)}}
+
+==Abbreviation==
+{{abbreviation}}
+# '''a.m.''' is used after a number to show that you are referring to a particular time between midnight and noon. {{antonyms|p.m.}}
+#: ''The program starts at 9 '''a.m'''.''
+
+[[ca:a.m.]]
+[[cs:a.m.]]
+[[de:a.m.]]
+[[et:a.m.]]
+[[en:a.m.]]
+[[es:a.m.]]
+[[fr:a.m.]]
+[[io:a.m.]]
+[[hu:a.m.]]
+[[mg:a.m.]]
+[[ml:a.m.]]
+[[nl:a.m.]]
+[[pl:a.m.]]
+[[ro:a.m.]]
+[[ta:a.m.]]
+[[te:a.m.]]
+[[tr:a.m.]]
+[[vi:a.m.]]
+[[zh:a.m.]]
+
+===Pronunciation===
+*{{IPA|/ə'bɪt/}}
+
+==Expression==
+{{expression}}
+# '''A bit''' is a small amount of something.
+#: ''I like to put '''a bit''' of sugar in my coffee.''
+#'''A bit''' can be used to mean ''some'' or ''slightly''.
+#:''That hat is '''a bit''' small for him.''
+#:''Could you move that up '''a bit'''?''
+
+===Synonyms===
+*[[a little]]
+*[[some]]
+*[[slightly]]
+
+===Related words===
+*[[a]]
+*[[bit]]
+
+===See also===
+* [[a little]]
+* [[a lot]]
+
+
+{{Stub}}
+
+[[et:a bit]]
+[[en:a bit]]
+[[ku:a bit]]
+[[mg:a bit]]
+[[pl:a bit]]
+[[ru:a bit]]
+[[fi:a bit]]
+[[uk:a bit]]
+
+==Determiner==
+{{determiner}}
+# '''A few''' is a small number.
+#: ''I saw him only '''a few''' days ago.''
+#: ''You'll learn after '''a few''' times.''
+#: ''Those are good. try and get '''a few''' more.''
+#: '''''A few''' of us went out last night.''
+#: ''"Would you like some?" "Just '''a few''', thanks."''
+#: ''I've tried to stop smoking quite '''a few''' times.''
+
+===Usage===
+'''A few''' is only used with plural nouns.
+
+===Synonyms===
+*[[some]]
+*[[several]]
+
+===Antonyms===
+*[[many]]
+
+===Related words===
+* [[few]]
+
+===See also===
+*[[a little]]
+
+[[et:a few]]
+[[en:a few]]
+[[fr:a few]]
+[[kn:a few]]
+[[sw:a few]]
+[[ku:a few]]
+[[li:a few]]
+[[hu:a few]]
+[[pl:a few]]
+[[ta:a few]]
+[[chr:a few]]
+[[tr:a few]]
+[[zh:a few]]
+
+{{BNC1HW}}
+==Determiner==
+{{determiner}}
+# '''A little''' is a small amount. {{synonyms|some|bit}} {{antonyms|lot|much}}
+#: ''We've only got '''a little''' time, so please be quick.''
+#: ''I need '''a little''' more room here.''
+#: ''You can do it with '''a little''' help from your friends.''
+#: ''He put '''a little''' water into the cup.''
+#: ''"Would you like some cake?" "Just '''a little''', please."''
+#: ''Can we talk '''a little''' more?''
+#: ''You're walking '''a little''' too slowly.''
+#: ''I understand only '''a little''' of what you say.''
+
+===Usage===
+When '''a little''' comes before a [[noun]], it is only used with [[uncountable]] nouns.
+
+===Related words===
+* [[little]]
+
+===See also===
+*[[a few]]
+
+[[et:a little]]
+[[en:a little]]
+[[fr:a little]]
+[[it:a little]]
+[[kn:a little]]
+[[ku:a little]]
+[[hu:a little]]
+[[ja:a little]]
+[[pl:a little]]
+[[fi:a little]]
+[[sv:a little]]
+[[ta:a little]]
+[[zh:a little]]
+
+{{see|lot}}
+
+===Pronunciation===
+*{{audio|En-uk-a lot.ogg|Audio (UK)}}
+
+==Expression==
+{{expression}}
+# '''A lot''' is a large [[amount]] of something.
+#: ''I have '''a lot''' of things to say.''
+#: ''He caused '''a lot''' of trouble.''
+# To a large degree.
+#: ''Running is '''a lot''' more fun when the weather is cool.''
+# Often
+#: ''He used to come here '''a lot,''' but he doesn't anymore.''
+
+===Usage===
+*The ''lot'' in '''a lot''' is number transparent. In other words, it looks singular, but when it is the subject of a sentence, the verb should agree with the number of whatever is being talked about.
+*: '''''A lot''' of <u>water is</u> running.'' (''water'' is singular, so choose ''is'')
+*: '''''A lot''' of <u>people are</u> running.'' (''people'' is plural, so choose ''are'')
+
+===Synonyms===
+*[[much]]
+*[[many]]
+*[[often]]
+*[[a great deal]]
+*[[far]]
+*[[tons]]
+
+===Related words===
+*[[a]]
+*[[lot]]
+
+[[et:a lot]]
+[[el:a lot]]
+[[en:a lot]]
+[[es:a lot]]
+[[fr:a lot]]
+[[ko:a lot]]
+[[kk:a lot]]
+[[mg:a lot]]
+[[ja:a lot]]
+[[pl:a lot]]
+[[ru:a lot]]
+[[sv:a lot]]
+[[ta:a lot]]
+[[zh:a lot]]
+
+==Expression==
+{{expression}}
+# '''A lot of''' something, is a large [[number]] or a large [[amount]] of it.
+#: ''We paid '''a lot of''' money for that car.''
+
+===Synonyms===
+* [[plenty]]
+
+===Related words===
+*[[a]]
+*[[lot]]
+*[[of]]
+*[[a lot]]
+
+[[en:a lot of]]
+[[fr:a lot of]]
+[[mg:a lot of]]
+[[ja:a lot of]]
+[[pl:a lot of]]
+[[sv:a lot of]]
+[[zh:a lot of]]
+
+== Adjective ==
+{{adjective}}
+# When something is '''a priori''', it refers to things you cannot know in [[advance]]. You have to try first and then find the answer. {{antonyms|a posteriori}}
+
+[[ca:a priori]]
+[[de:a priori]]
+[[et:a priori]]
+[[el:a priori]]
+[[en:a priori]]
+[[es:a priori]]
+[[fr:a priori]]
+[[hr:a priori]]
+[[io:a priori]]
+[[it:a priori]]
+[[hu:a priori]]
+[[my:a priori]]
+[[nl:a priori]]
+[[ja:a priori]]
+[[no:a priori]]
+[[pl:a priori]]
+[[pt:a priori]]
+[[ro:a priori]]
+[[ru:a priori]]
+[[sv:a priori]]
+[[ta:a priori]]
+[[te:a priori]]
+[[tr:a priori]]
+[[zh:a priori]]
+[[te:a priori]]
+
+==Expression==
+{{expression}}
+# {{colloquial}} '''A ways''' means a long [[distance]].
+#:"''We can reach our destination, but it's still '''a ways''' away.''" -- [[w:R.E.M.|R.E.M.]], "Driver 8"
+
+===Synonyms===
+*[[far]]
+*[[far off]]
+*[[way off]]
+
+===Related words===
+*[[way]]
+
+===See also===
+*[[away]]
+
+==Adverb==
+{{adverb|more=true}}
+#'''Aback''' can mean toward the back or [[backward]].
+#When someone is '''[[taken]] aback''', he is [[surprised]].
+#: He was taken ''aback'' by her angry words.
+
+[[am:aback]]
+[[ar:aback]]
+[[de:aback]]
+[[en:aback]]
+[[fa:aback]]
+[[fr:aback]]
+[[ko:aback]]
+[[hy:aback]]
+[[hi:aback]]
+[[io:aback]]
+[[it:aback]]
+[[kn:aback]]
+[[kk:aback]]
+[[ku:aback]]
+[[hu:aback]]
+[[ml:aback]]
+[[ms:aback]]
+[[mn:aback]]
+[[my:aback]]
+[[nl:aback]]
+[[ps:aback]]
+[[pl:aback]]
+[[pt:aback]]
+[[ru:aback]]
+[[sk:aback]]
+[[fi:aback]]
+[[sv:aback]]
+[[ta:aback]]
+[[te:aback]]
+[[th:aback]]
+[[tr:aback]]
+[[uk:aback]]
+[[vi:aback]]
+[[vo:aback]]
+[[zh:aback]]
+[[te:aback]]
+
+===Pronunciation===
+* {{audio|En-us-abacus.ogg|Audio (US)}}
+
+== Noun ==
+{{noun|abacus|abacuses}}
+[[File:Kugleramme.jpg|thumbnail|An abacus]]
+#{{countable}} An '''abacus''' is an ancient calculating device. It is made of a frame with beads on various rods.
+
+[[am:abacus]]
+[[ar:abacus]]
+[[zh-min-nan:abacus]]
+[[be:abacus]]
+[[ca:abacus]]
+[[cs:abacus]]
+[[da:abacus]]
+[[de:abacus]]
+[[et:abacus]]
+[[el:abacus]]
+[[en:abacus]]
+[[es:abacus]]
+[[eo:abacus]]
+[[fa:abacus]]
+[[fr:abacus]]
+[[ko:abacus]]
+[[hy:abacus]]
+[[hi:abacus]]
+[[hr:abacus]]
+[[io:abacus]]
+[[id:abacus]]
+[[ia:abacus]]
+[[it:abacus]]
+[[kn:abacus]]
+[[ka:abacus]]
+[[ku:abacus]]
+[[la:abacus]]
+[[lv:abacus]]
+[[lt:abacus]]
+[[hu:abacus]]
+[[mg:abacus]]
+[[ml:abacus]]
+[[ms:abacus]]
+[[mn:abacus]]
+[[my:abacus]]
+[[nl:abacus]]
+[[ja:abacus]]
+[[pl:abacus]]
+[[pt:abacus]]
+[[ru:abacus]]
+[[sk:abacus]]
+[[fi:abacus]]
+[[sv:abacus]]
+[[ta:abacus]]
+[[te:abacus]]
+[[th:abacus]]
+[[tr:abacus]]
+[[uk:abacus]]
+[[vi:abacus]]
+[[vo:abacus]]
+[[zh:abacus]]
+
+==Noun==
+{{noun|abacus|abacuses}}
+# {{plural of|abacus}}
+
+[[ar:abacuses]]
+[[ca:abacuses]]
+[[cs:abacuses]]
+[[de:abacuses]]
+[[en:abacuses]]
+[[eo:abacuses]]
+[[fr:abacuses]]
+[[ku:abacuses]]
+[[hu:abacuses]]
+[[mg:abacuses]]
+[[my:abacuses]]
+[[ja:abacuses]]
+[[pt:abacuses]]
+[[fi:abacuses]]
+[[sv:abacuses]]
+[[ta:abacuses]]
+[[te:abacuses]]
+
+=== Pronunciation ===
+* {{audio|en-us-abaft.ogg|Audio (US)}}
+
+==Adverb==
+{{adverb|more=true}}
+#{{uncountable}} Toward the back of a [[ship]] or [[airplane]].
+
+[[ar:abaft]]
+[[de:abaft]]
+[[dv:abaft]]
+[[et:abaft]]
+[[en:abaft]]
+[[es:abaft]]
+[[fr:abaft]]
+[[ko:abaft]]
+[[hi:abaft]]
+[[io:abaft]]
+[[it:abaft]]
+[[kn:abaft]]
+[[li:abaft]]
+[[hu:abaft]]
+[[ms:abaft]]
+[[my:abaft]]
+[[pl:abaft]]
+[[pt:abaft]]
+[[ru:abaft]]
+[[fi:abaft]]
+[[sv:abaft]]
+[[ta:abaft]]
+[[te:abaft]]
+[[th:abaft]]
+[[uk:abaft]]
+[[vi:abaft]]
+[[zh:abaft]]
+
+==Noun==
+{{noun}}
+#{{countable}} An '''abamp''' is an amount of [[electricity]] equal to ten amps. {{synonyms|abampere}}
+
+===Related words===
+*[[amp]]
+
+[[ar:abamp]]
+[[en:abamp]]
+[[my:abamp]]
+[[ru:abamp]]
+[[te:abamp]]
+
+==Noun==
+{{noun}}
+#{{countable}} An '''abampere''' is an amount of [[electricity]] equal to ten [[ampere]]s.{{synonyms|abamp}}
+
+===Related words===
+*[[ampere]]
+
+[[en:abampere]]
+[[ml:abampere]]
+[[my:abampere]]
+[[pt:abampere]]
+[[ru:abampere]]
+[[ta:abampere]]
+[[vi:abampere]]
+[[zh:abampere]]
+[[te:abampere]]
+
+==Noun==
+{{noun|abampere}}
+# {{plural of|abampere}}
+
+[[ar:abamperes]]
+[[en:abamperes]]
+[[fr:abamperes]]
+[[ku:abamperes]]
+[[mg:abamperes]]
+[[my:abamperes]]
+[[fi:abamperes]]
+[[te:abamperes]]
+
+==Noun==
+{{noun|abamp}}
+# {{plural of|abamp}}
+
+[[ar:abamps]]
+[[en:abamps]]
+[[fr:abamps]]
+[[ku:abamps]]
+[[mg:abamps]]
+[[my:abamps]]
+[[fi:abamps]]
+[[te:abamps]]
+
+{{AWL}}
+
+=== Pronunciation ===
+*{{UK}} {{IPA|/əˈbændən/}}
+*{{audio|en-us-abandon.ogg|Audio (US)}}
+*{{hyphenation|aban|don}}
+
+==Verb==
+{{verb}}
+# {{transitive verb}} If you '''abandon''' something, you go away from it with no plan to return.
+#: ''Many teens '''abandon''' all chances of a successful future when they drop out of school.''
+#: ''After much thought, they '''abandoned''' the idea as being too difficult.''
+#: ''The government '''abandons''' after-school programs when money is tight.''
+# {{transitive verb}} If you '''abandon''' something, you give up control of it.
+#: ''They danced wildly down the street, '''abandoning''' themselves to the night and the moon.''
+#: ''The woodcutter and his wife considered '''abandoning''' Hansel and Gretel in the forest.''
+
+===Related words===
+*[[abandonment]]
+*[[abandoned]]
+
+==Noun==
+{{noun|abandon|none}}
+# {{uncountable}} '''Abandon''' is a state where you do not control yourself.
+#: ''In these games, kids shoot and blow each other up with reckless '''abandon'''.''
+
+===Related words===
+*[[disregard]]
+
+[[am:abandon]]
+[[ar:abandon]]
+[[zh-min-nan:abandon]]
+[[be:abandon]]
+[[ca:abandon]]
+[[cs:abandon]]
+[[co:abandon]]
+[[cy:abandon]]
+[[da:abandon]]
+[[de:abandon]]
+[[dv:abandon]]
+[[et:abandon]]
+[[el:abandon]]
+[[en:abandon]]
+[[es:abandon]]
+[[eo:abandon]]
+[[fa:abandon]]
+[[fr:abandon]]
+[[gl:abandon]]
+[[ko:abandon]]
+[[hy:abandon]]
+[[hi:abandon]]
+[[hr:abandon]]
+[[io:abandon]]
+[[id:abandon]]
+[[ia:abandon]]
+[[ie:abandon]]
+[[it:abandon]]
+[[kn:abandon]]
+[[ka:abandon]]
+[[kk:abandon]]
+[[ku:abandon]]
+[[ky:abandon]]
+[[lo:abandon]]
+[[lv:abandon]]
+[[lt:abandon]]
+[[li:abandon]]
+[[hu:abandon]]
+[[mg:abandon]]
+[[ml:abandon]]
+[[mr:abandon]]
+[[ms:abandon]]
+[[mn:abandon]]
+[[my:abandon]]
+[[fj:abandon]]
+[[nl:abandon]]
+[[ja:abandon]]
+[[no:abandon]]
+[[ps:abandon]]
+[[km:abandon]]
+[[pl:abandon]]
+[[pt:abandon]]
+[[ro:abandon]]
+[[ru:abandon]]
+[[sm:abandon]]
+[[sa:abandon]]
+[[sk:abandon]]
+[[fi:abandon]]
+[[sv:abandon]]
+[[tl:abandon]]
+[[ta:abandon]]
+[[te:abandon]]
+[[th:abandon]]
+[[chr:abandon]]
+[[tr:abandon]]
+[[uk:abandon]]
+[[vi:abandon]]
+[[vo:abandon]]
+[[zh:abandon]]
+
+===Pronunciation===
+* {{audio|En-us-abandoned.ogg|Audio (US)}}
+* {{hyphenation|aban|doned}}
+
+==Verb==
+{{verb|abandon}}
+#{{past tense and participle of|abandon}}
+#:''After much thought, they '''abandoned''' the idea as being too difficult.''
+
+[[am:abandoned]]
+[[ar:abandoned]]
+[[ca:abandoned]]
+[[cy:abandoned]]
+[[de:abandoned]]
+[[en:abandoned]]
+[[es:abandoned]]
+[[fa:abandoned]]
+[[fr:abandoned]]
+[[ko:abandoned]]
+[[hy:abandoned]]
+[[hi:abandoned]]
+[[io:abandoned]]
+[[it:abandoned]]
+[[kn:abandoned]]
+[[kk:abandoned]]
+[[ku:abandoned]]
+[[li:abandoned]]
+[[hu:abandoned]]
+[[mg:abandoned]]
+[[ml:abandoned]]
+[[mr:abandoned]]
+[[mn:abandoned]]
+[[my:abandoned]]
+[[nl:abandoned]]
+[[ja:abandoned]]
+[[no:abandoned]]
+[[ps:abandoned]]
+[[pl:abandoned]]
+[[pt:abandoned]]
+[[ro:abandoned]]
+[[ru:abandoned]]
+[[fi:abandoned]]
+[[sv:abandoned]]
+[[ta:abandoned]]
+[[te:abandoned]]
+[[th:abandoned]]
+[[chr:abandoned]]
+[[tr:abandoned]]
+[[uk:abandoned]]
+[[vi:abandoned]]
+[[zh:abandoned]]
+[[te:abandoned]]
+
+==Verb==
+{{verb|abandon}}
+#{{gerund-participle of|abandon}}
+#:''Many people have been '''abandoning''' their homes.''
+
+==Noun==
+{{noun|abandoning|none}}
+#The act of '''abandoning'''.
+#:''The '''abandoning''' of the child happened 10 years ago.''
+
+[[ar:abandoning]]
+[[de:abandoning]]
+[[en:abandoning]]
+[[es:abandoning]]
+[[fr:abandoning]]
+[[it:abandoning]]
+[[kn:abandoning]]
+[[ku:abandoning]]
+[[hu:abandoning]]
+[[mg:abandoning]]
+[[ml:abandoning]]
+[[my:abandoning]]
+[[nl:abandoning]]
+[[ja:abandoning]]
+[[pt:abandoning]]
+[[fi:abandoning]]
+[[sv:abandoning]]
+[[ta:abandoning]]
+[[vi:abandoning]]
+[[te:abandoning]]
+
+===Pronunciation===
+* {{audio|En-us-abandonment.ogg|Audio (US)}}
+
+==Noun==
+{{noun}}
+#{{countable}} An [[action]] that causes someone or something to be [[abandoned]].{{synonyms|desertion}}
+
+===Related words===
+*[[abandon]]
+
+[[ar:abandonment]]
+[[ca:abandonment]]
+[[de:abandonment]]
+[[et:abandonment]]
+[[el:abandonment]]
+[[en:abandonment]]
+[[es:abandonment]]
+[[fa:abandonment]]
+[[fr:abandonment]]
+[[ko:abandonment]]
+[[hy:abandonment]]
+[[io:abandonment]]
+[[ia:abandonment]]
+[[it:abandonment]]
+[[kn:abandonment]]
+[[kk:abandonment]]
+[[ku:abandonment]]
+[[lt:abandonment]]
+[[hu:abandonment]]
+[[mg:abandonment]]
+[[ml:abandonment]]
+[[mr:abandonment]]
+[[mn:abandonment]]
+[[my:abandonment]]
+[[ja:abandonment]]
+[[ps:abandonment]]
+[[pl:abandonment]]
+[[pt:abandonment]]
+[[ru:abandonment]]
+[[fi:abandonment]]
+[[ta:abandonment]]
+[[te:abandonment]]
+[[th:abandonment]]
+[[uk:abandonment]]
+[[vi:abandonment]]
+[[zh:abandonment]]
+
+==Noun==
+{{noun|abandonment}}
+# {{plural of|abandonment}}
+
+[[ar:abandonments]]
+[[ca:abandonments]]
+[[de:abandonments]]
+[[en:abandonments]]
+[[fr:abandonments]]
+[[ku:abandonments]]
+[[mg:abandonments]]
+[[ml:abandonments]]
+[[my:abandonments]]
+[[fi:abandonments]]
+[[te:abandonments]]
+
+==Noun==
+{{noun|abandon}}
+#{{plural of|abandon}}
+
+==Verb==
+{{verb|abandon}}
+#{{third-person singular of|abandon}}
+
+[[ca:abandons]]
+[[de:abandons]]
+[[el:abandons]]
+[[en:abandons]]
+[[es:abandons]]
+[[fr:abandons]]
+[[it:abandons]]
+[[ku:abandons]]
+[[hu:abandons]]
+[[mg:abandons]]
+[[my:abandons]]
+[[nl:abandons]]
+[[ja:abandons]]
+[[no:abandons]]
+[[pl:abandons]]
+[[pt:abandons]]
+[[sk:abandons]]
+[[fi:abandons]]
+[[sv:abandons]]
+[[th:abandons]]
+[[vi:abandons]]
+[[te:abandons]]
+
+=== Pronunciation ===
+* {{audio|en-us-abase.ogg|Audio (US)}}
+
+== Verb ==
+{{verb|abas|e}}
+#If you '''abase''' someone or something, then you are trying to lower its status. Typically, you abase by insulting, degrading, or lowering worth.
+#:''He felt that his moral principles were '''abased''' after the deal was done.''
+
+[[am:abase]]
+[[ar:abase]]
+[[de:abase]]
+[[et:abase]]
+[[en:abase]]
+[[es:abase]]
+[[fa:abase]]
+[[fr:abase]]
+[[ko:abase]]
+[[hy:abase]]
+[[hi:abase]]
+[[hr:abase]]
+[[io:abase]]
+[[ia:abase]]
+[[it:abase]]
+[[kn:abase]]
+[[ku:abase]]
+[[li:abase]]
+[[hu:abase]]
+[[mg:abase]]
+[[ml:abase]]
+[[mn:abase]]
+[[my:abase]]
+[[fj:abase]]
+[[nl:abase]]
+[[ja:abase]]
+[[pa:abase]]
+[[ps:abase]]
+[[pl:abase]]
+[[pt:abase]]
+[[ro:abase]]
+[[ru:abase]]
+[[fi:abase]]
+[[sv:abase]]
+[[ta:abase]]
+[[te:abase]]
+[[th:abase]]
+[[chr:abase]]
+[[tr:abase]]
+[[uk:abase]]
+[[vi:abase]]
+[[vo:abase]]
+[[wo:abase]]
+[[zh:abase]]
+
+==Verb==
+{{verb|abas|e}}
+# {{past tense and participle of|abase}}
+
+[[de:abased]]
+[[en:abased]]
+[[es:abased]]
+[[fr:abased]]
+[[hi:abased]]
+[[io:abased]]
+[[it:abased]]
+[[ku:abased]]
+[[hu:abased]]
+[[ml:abased]]
+[[my:abased]]
+[[fj:abased]]
+[[ja:abased]]
+[[ps:abased]]
+[[pt:abased]]
+[[fi:abased]]
+[[te:abased]]
+[[th:abased]]
+[[vi:abased]]
+
+===Pronunciation===
+* {{audio|en-us-abasement.ogg|Audio (US)}}
+
+==Noun==
+{{noun}}
+#{{countable}} An [[action]] that causes someone or something to be [[abase]]d (lowered in status).
+
+===Related words===
+*[[abase]]
+
+[[ar:abasement]]
+[[cs:abasement]]
+[[da:abasement]]
+[[en:abasement]]
+[[es:abasement]]
+[[fa:abasement]]
+[[fr:abasement]]
+[[ko:abasement]]
+[[hy:abasement]]
+[[hi:abasement]]
+[[io:abasement]]
+[[ia:abasement]]
+[[it:abasement]]
+[[ku:abasement]]
+[[li:abasement]]
+[[hu:abasement]]
+[[mg:abasement]]
+[[ml:abasement]]
+[[ms:abasement]]
+[[my:abasement]]
+[[ja:abasement]]
+[[uz:abasement]]
+[[pa:abasement]]
+[[ps:abasement]]
+[[pl:abasement]]
+[[ro:abasement]]
+[[ru:abasement]]
+[[fi:abasement]]
+[[sv:abasement]]
+[[ta:abasement]]
+[[te:abasement]]
+[[chr:abasement]]
+[[uk:abasement]]
+[[vi:abasement]]
+[[zh:abasement]]
+
+==Noun==
+{{noun|abasement}}
+# {{plural of|abasement}}
+
+[[ar:abasements]]
+[[cs:abasements]]
+[[en:abasements]]
+[[fr:abasements]]
+[[ku:abasements]]
+[[mg:abasements]]
+[[my:abasements]]
+[[fi:abasements]]
+[[te:abasements]]
+
+==Verb==
+{{verb|abas|e}}
+# {{third-person singular of|abase}}
+
+[[de:abases]]
+[[en:abases]]
+[[es:abases]]
+[[fr:abases]]
+[[kw:abases]]
+[[ku:abases]]
+[[li:abases]]
+[[hu:abases]]
+[[my:abases]]
+[[ja:abases]]
+[[pt:abases]]
+[[fi:abases]]
+[[sv:abases]]
+[[th:abases]]
+[[vi:abases]]
+
+=== Pronunciation ===
+* {{UK}} {{IPA|/əˈbæʃ/}}
+* {{US}} {{IPA|/əˈbæʃ/}}
+* {{audio|en-us-abash.ogg|Audio (US)}}
+
+== Verb ==
+{{verb|abash|abashes|abashed|abashed|abashing}}
+#{{transitive}} [[Embarrass]]; cause someone to feel discomfort or shame {{synonyms|embarrass}}
+#:''I '''abashed''' the man when I told him he wasn't a nice person.''
+
+===Related words===
+*[[abashed]]
+*[[abashment]]
+
+[[am:abash]]
+[[ar:abash]]
+[[de:abash]]
+[[et:abash]]
+[[en:abash]]
+[[es:abash]]
+[[fa:abash]]
+[[fr:abash]]
+[[ko:abash]]
+[[hy:abash]]
+[[it:abash]]
+[[kn:abash]]
+[[ka:abash]]
+[[ku:abash]]
+[[li:abash]]
+[[hu:abash]]
+[[mg:abash]]
+[[ml:abash]]
+[[my:abash]]
+[[fj:abash]]
+[[nl:abash]]
+[[ps:abash]]
+[[pl:abash]]
+[[pt:abash]]
+[[ro:abash]]
+[[ru:abash]]
+[[fi:abash]]
+[[sv:abash]]
+[[ta:abash]]
+[[te:abash]]
+[[th:abash]]
+[[tr:abash]]
+[[uk:abash]]
+[[vi:abash]]
+[[vo:abash]]
+[[zh:abash]]
+[[te:abash]]
+
+===Pronunciation===
+* {{UK}} {{IPA|əˈbæʃt}}
+
+== Adjective ==
+{{adjective|more=true}}
+# Feeling discomfort or shame; feeling embarrassed.
+#:''The man was '''abashed''' when I told him he wasn't a nice person.''
+
+==Verb==
+{{verb|abash|abashes|abashed|abashed|abashing}}
+# {{past tense and participle of|abash}}
+
+[[am:abashed]]
+[[ar:abashed]]
+[[de:abashed]]
+[[et:abashed]]
+[[en:abashed]]
+[[es:abashed]]
+[[fr:abashed]]
+[[ko:abashed]]
+[[io:abashed]]
+[[it:abashed]]
+[[ka:abashed]]
+[[ku:abashed]]
+[[li:abashed]]
+[[hu:abashed]]
+[[mg:abashed]]
+[[ml:abashed]]
+[[ms:abashed]]
+[[mn:abashed]]
+[[my:abashed]]
+[[nl:abashed]]
+[[ja:abashed]]
+[[pl:abashed]]
+[[pt:abashed]]
+[[ru:abashed]]
+[[fi:abashed]]
+[[sv:abashed]]
+[[ta:abashed]]
+[[te:abashed]]
+[[th:abashed]]
+[[tr:abashed]]
+[[uk:abashed]]
+[[vi:abashed]]
+[[vo:abashed]]
+[[zh:abashed]]
+[[te:abashed]]
+
+==Verb==
+{{verb|abash|abashes|abashed|abashed|abashing}}
+# {{third-person singular of|abash}}
+
+[[de:abashes]]
+[[en:abashes]]
+[[fr:abashes]]
+[[it:abashes]]
+[[ku:abashes]]
+[[hu:abashes]]
+[[my:abashes]]
+[[nl:abashes]]
+[[pt:abashes]]
+[[fi:abashes]]
+[[sv:abashes]]
+[[th:abashes]]
+[[vi:abashes]]
+
